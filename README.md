@@ -1,2 +1,4 @@
 # My-New
-This is my 1st repository on Git
+This is my 1st repository on Git<br>
+Learning Git from scratch<br>
+Author-Harman<br>
